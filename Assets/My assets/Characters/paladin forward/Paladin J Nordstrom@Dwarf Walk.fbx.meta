@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ee4082a4f14cd294590b60e277d4e5c3
+guid: 242624a1fc89db842ba3ce4630160e4e
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -33,11 +33,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle
+      name: Dwarf Walk
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 183
+      lastFrame: 39
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
